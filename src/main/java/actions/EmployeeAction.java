@@ -11,7 +11,7 @@ import constants.ForwardConst;
 import constants.JpaConst;
 import constants.MessageConst;
 import constants.PropertyConst;
-import services.EmployeeService;
+import models.services.EmployeeService;
 
 /**
  * 従業員に関わる処理を行うActionクラス
